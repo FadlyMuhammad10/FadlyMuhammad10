@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Fadly H
 - 👀 I’m interested in Back End Web Developer
-- 🌱 I’m currently learning At Universitas Amikom Yogyakarta
+- 🌱 I’m graduated from Amikom Yogyakarta University
 - 💞️ I’m looking to collaborate on Website-Engineer
 - 📫 How to reach me In Email davit9747@gmail.com
 
