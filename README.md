@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back End Web Developer
 - 🌱 I’m graduated from Amikom Yogyakarta University
 - 💞️ I’m looking to collaborate on Website-Engineer
-- 📫 How to reach me In Email davit9747@gmail.com
+- 📫 How to reach me In Email davit9747@gmail.com / fadly9747@gmail.com
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
