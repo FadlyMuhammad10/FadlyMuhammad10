@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Fadly H
+- 👋 Hi, I’m Muhammad Fadly Hidayat
 - 👀 I’m interested in Web Developer
 - 🌱 I’m graduated from Amikom Yogyakarta University
 - 💞️ I’m looking to collaborate on Website-Engineer
